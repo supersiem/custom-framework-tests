@@ -8,8 +8,15 @@
             "custom_attributes": [
                 "data"
             ]
+        },
+        {
+            "name": "jeff",
+            "tag": "jeff",
+            "url": "jeff",
+            "version": "ik ben jeff",
+            "custom_attributes": []
         }
     ],
     "dev": true,
-    "custom_root": "pages"
+    "custom_root": "pages/"
 }
