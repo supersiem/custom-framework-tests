@@ -1,0 +1,15 @@
+{
+    "customComponents": [
+        {
+            "name": "customComponent",
+            "tag": "customComponent",
+            "url": "customComponent",
+            "version": "2.0",
+            "custom_attributes": [
+                "data"
+            ]
+        }
+    ],
+    "dev": true,
+    "custom_root": "pages"
+}
